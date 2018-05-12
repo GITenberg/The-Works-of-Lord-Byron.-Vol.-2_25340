@@ -1,0 +1,39 @@
+_repo: The-Works-of-Lord-Byron.-Vol.-2_25340
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byron, George Gordon Byron, Baron
+    aliases:
+    - Byron, George Gordon Noël Byron, Baron
+    - Byron, George Gordon Noel Byron, Baron
+    birthdate: 1788
+    deathdate: 1824
+    gutenberg_agent_id: '1708'
+    url: http://www.gutenberg.org/2009/agents/1708
+    wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
+  editor:
+    agent_name: Coleridge, Ernest Hartley
+    birthdate: 1846
+    deathdate: 1920
+    gutenberg_agent_id: '2902'
+    url: http://www.gutenberg.org/2009/agents/2902
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge
+description: Start here to download the Project Gutenberg eBook of the works of Lord
+  Byron, letters and journals, vol. 2 by Byron.
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2008-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: The Works of Lord Byron. Vol. 2
+url: http://www.gutenberg.org/ebooks/25340
