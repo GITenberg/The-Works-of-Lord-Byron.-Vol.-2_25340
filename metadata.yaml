@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge
 description: Start here to download the Project Gutenberg eBook of the works of Lord
   Byron, letters and journals, vol. 2 by Byron.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25340#The-Works-of-Lord-Byron.-Vol.-2
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2008-05-05'
 gutenberg_type: Text
